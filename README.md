@@ -1,4 +1,4 @@
-# Hello, I'm 张希玥 👋
+# Hello, I'm Zz 👋
 
 这是我的第一个 GitHub 仓库。
 
